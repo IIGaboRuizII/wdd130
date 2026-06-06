@@ -4,10 +4,9 @@
 --accent1-color: #BFD7EA;
 --accent2-color: #FF5A5F;
 
-```
 --heading-font: Arial, sans-serif;
 --body-font: Verdana, sans-serif;
-```
+
 
 }
 
@@ -163,9 +162,10 @@ gap: 10px;
 }
 
 .socialmedia a {
-border: none;
-background: transparent;
-padding: 0;
+    border: none;
+    background: transparent;
+    padding: 0;
+    text-decoration: none;
 }
 
 .socialmedia img {
